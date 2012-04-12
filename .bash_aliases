@@ -3,20 +3,13 @@
 # ==================================================================
 
 # server aliases
-alias sandbox="ssh 174.143.173.240"
 alias vhosts="cd /etc/apache2/vhosts/"
-
-# Networking
-alias checkvpn="netstat -rn | grep 192.168" #check if VPN is working 
 
 # project aliases
 alias sites="cd ~/Sites"
-alias projects="cd ~/Sites/_projects"
+alias projects="cd ~/Sites/projects"
 alias iphone="cd ~/Sites/iPhone"
 alias dotfiles="cd ~/dotfiles"
-
-# work aliass
-alias strands="cd ~/Sites/work/strands"
 
 # logs
 alias weblogs="tail -f /var/log/apache2/*_log"
