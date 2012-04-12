@@ -6,6 +6,8 @@ doc/api
 doc/app
 .DS_Store
 .gitconfig
+.bash_local
+.gist_config
 vendor/gems/gems
 vendor/gems/specifications
 vendor/gems/doc
