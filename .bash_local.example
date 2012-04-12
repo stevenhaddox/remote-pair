@@ -1,0 +1,7 @@
+# gist Github config variables
+if [ -f ~/.gist_config ]; then
+  source ~/.gist_config
+fi
+
+# custom aliases local to this machine, etc.
+

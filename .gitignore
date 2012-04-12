@@ -1,0 +1,12 @@
+database.yml
+config/*.yml
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+.DS_Store
+.gitconfig
+vendor/gems/gems
+vendor/gems/specifications
+vendor/gems/doc
+vendor/gems/environment.rb
